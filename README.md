@@ -1,11 +1,11 @@
-# 🙋‍♂️주말이 아닌 월요일이 기다려지고 싶은 이바다 입니다.
+# 🙋‍♂️ 주말이 아닌 월요일이 기다려지는 사람이 되고 싶은 개발자
 ## 📌 Intro
 - **Java/Spring 국비 교육 수료** 후, PHP(CodeIgniter 3) 기반의 **ERP/MES 개발자**로 커리어를 시작했습니다.<br>
-- 현재는 **Java/Spring** 생태계로 전향하기 위해 사이드 프로젝트를 꾸준히 **진행하고 있습니다.**<br>
+- 현재는 **Java/Spring** 생태계로 전향하기 위해 사이드 프로젝트를 꾸준히 진행하고 있습니다.<br>
 - AI 시대일수록 기본기의 가치를 더 중요하게 생각합니다. AI는 **테스트, 코드 검수, 더미 데이터 생성** 등의 보조 도구로 활용하고 있습니다.<br>
 - **정직**과 **성실**, 그리고 맡은 일에 대한 **책임감**을 가장 중요한 가치로 여깁니다.<br>
 
-Contact: **gnjqtpf1@gmail.com**
+**Contact: gnjqtpf1@gmail.com**
 <br>
 
 ## 📌 Skills
@@ -15,8 +15,19 @@ Contact: **gnjqtpf1@gmail.com**
 
 <br>
 
-## 📌 Working & Studying 
-- Spring Boot / React 기반 ERP 프로젝트 [Ongoing]
+## 📌 Pinned Repositories (Projects & Study Logs)
+
+### 🔭 Main Side Project
+- **🟢 In Progress | [metrology](https://github.com/2badasea/metrology)**:  **Java/Spring Boot/MySQL** 기반으로 레거시 ERP 형태의 업무 시스템을 **마이그레이션/재구축**하는 사이드 프로젝트
+
+### 🏗️ Side Projects (In Progress / Completed)
+- **🟢 In Progress | [codingapple-react](https://github.com/2badasea/codingapple-react)**:  **React 기반 SPA 쇼핑몰 프로젝트**, React를 비롯한 프론트엔드 학습용 프로젝트
+- **✅ Completed | [jenkins-cicd-practice](https://github.com/2badasea/jenkins-cicd-practice)**:  **Jenkins & Docker**를 활용한 CI/CD 파이프라인을 구성해보는 실습 프로젝트 (빌드/배포 흐름 자동화 경험)
+- **✅ Completed | [coder_ground](https://github.com/2badasea/coder_ground)**:  **Java/Spring/Oracle DB** 기반의 문제풀이 웹 애플리케이션. 국비지원교육 수료 후 진행한 개인 프로젝트
+
+### 📚 Coding Test Practice & Learning Archives
+- **[codingtest-study](https://github.com/2badasea/codingtest-study)**: **자료구조/알고리즘 코딩테스트 풀이 저장소** (Java)
+- **[learningDocs](https://github.com/2badasea/learningDocs)**: 프로젝트 진행 중 또는 학습 과정에서 정리한 **Markdown 문서/문제해결 기록 저장소**
 
 <br>
 
