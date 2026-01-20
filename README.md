@@ -1,4 +1,5 @@
-# Bada's GitHub
+# Hello, I'm Bada!
+
 - Web backend developer
 - Contact: **gnjqtpf1@gmail.com**
 
@@ -17,17 +18,11 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### IDE & Tools & Collaboration & ETC
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-2E7D32?style=flat-square&logoColor=white)
-![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
+### Collaboration & ETC
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+
 
 ---
 ## Current Work & Learning
