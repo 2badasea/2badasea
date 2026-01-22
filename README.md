@@ -8,6 +8,7 @@
 **Contact: gnjqtpf1@gmail.com**
 <br>
 <br>
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://leebada.notion.site/Developer-BADA-220cef492203801fa868c715d1998155?source=copy_link)
 
 ## 📌 Pinned Repositories Desc (Projects & Study Logs)
 
