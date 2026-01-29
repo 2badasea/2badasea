@@ -1,11 +1,9 @@
 # 🙋‍♂️ 주말이 아닌 월요일이 기다려지는 사람이 되고 싶은 개발자
-## 📌 Intro
 - **정직**과 **성실**, 그리고 맡은 일에 대한 **책임감**을 가장 중요한 가치로 여깁니다.<br>
 
+<br>
 **Contact: gnjqtpf1@gmail.com**
 <br>
-<br>
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://leebada.notion.site/Developer-BADA-220cef492203801fa868c715d1998155?source=copy_link)
 
 ## 📌 Pinned Repositories Desc (Projects & Study Logs)
 
