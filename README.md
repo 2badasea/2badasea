@@ -1,4 +1,4 @@
-# 🙋‍♂️ Wellcome!
+# 🙋‍♂️ Welcome!
 
 **Contact: gnjqtpf1@gmail.com**
 <br>
